@@ -1,7 +1,0 @@
-interface:
-  display_name: "Reading Partner"
-  short_description: "Read and discuss English literature aloud"
-  default_prompt: "Use $reading-partner to read and discuss this English text with me."
-
-policy:
-  allow_implicit_invocation: true
