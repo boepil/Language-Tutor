@@ -43,12 +43,12 @@ Then write, in text only, a short draft summary and show it for correction. Fix 
 ## Building the Study File
 1. Write `/tmp/summary.txt`: the corrected summary, short, limited to what the text and the dialogue covered.
 2. Write `/tmp/synthesis.txt`: the closing synthesis, built from the learner's own readings across the sessions. Include where they started and where they ended on the main threads, their closing line on the story in their own words, and threads worth carrying into the next piece. Do not add a fresh retelling.
-3. Save the final draft body to `/tmp/draft_final.txt` (the draft re-read fresh from Gmail).
-4. Run `python3 scripts/build_study_file.py --draft /tmp/draft_final.txt --summary /tmp/summary.txt --synthesis /tmp/synthesis.txt --reader "<name>" --language "<code>" --level "<band>" --style "<style>" --source "<book, edition, folios>" --out "/mnt/user-data/outputs/Study File - <Story title>.md"`.
+3. Save the final draft body to `/tmp/draft_final.txt` (the draft fetched fresh from the repo with `scripts/draft_io.py fetch`).
+4. Run `python3 scripts/build_study_file.py --draft /tmp/draft_final.txt --summary /tmp/summary.txt --synthesis /tmp/synthesis.txt --reader "<n>" --language "<code>" --level "<band>" --style "<style>" --source "<book, edition, folios>" --out "/mnt/user-data/outputs/Study File - <Story title>.md"`.
 5. Read the result once. The order is: the learner's notes list, summary, closing synthesis, reading record, open questions, vocabulary, recurring problems, sessions at a glance. If something is empty or wrong, fix the draft body and rebuild; do not hand-edit the output.
-6. Deliver it with `present_files`. The file is the learner's; do not push it to the repo unless they ask.
+6. Deliver it with `present_files`, and also save it in the repo as `Study Files/Study File - <Story title>.md` with the connector's `create_or_update_file`, next to the draft. Tell the learner in text that it is there.
 
 ## After the Study File
 1. Have a short conversation about anything in the draft that belongs in the skill, starting with the `SKILL FEEDBACK` lines in the handoff block. Treat them as suggestions for the skill's owner and change nothing in the skill unless the learner asks.
-2. Ask whether to delete the story's draft. Delete it with `delete_draft` only on a clear yes. Never delete it before the Study File has been delivered.
+2. Ask whether to delete the story's draft file, `Study Files/Draft - <Title>.md`. Delete it with the connector's `delete_file` (it needs the file's current sha from `draft_io.py fetch`) only on a clear yes. Never delete it before the Study File has been delivered and saved.
 3. The next story starts from a fresh draft; nothing carries over from this one.
