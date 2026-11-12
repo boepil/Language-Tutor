@@ -44,7 +44,7 @@ Then write, in text only, a short draft summary and show it for correction. Fix 
 1. Write `/tmp/summary.txt`: the corrected summary, short, limited to what the text and the dialogue covered.
 2. Write `/tmp/synthesis.txt`: the closing synthesis, built from the learner's own readings across the sessions. Include where they started and where they ended on the main threads, their closing line on the story in their own words, and threads worth carrying into the next piece. Do not add a fresh retelling.
 3. Save the final draft body to `/tmp/draft_final.txt` (the draft fetched fresh from the repo with `scripts/draft_io.py fetch`).
-4. Run `python3 scripts/build_study_file.py --draft /tmp/draft_final.txt --summary /tmp/summary.txt --synthesis /tmp/synthesis.txt --reader "<n>" --language "<code>" --level "<band>" --style "<style>" --source "<book, edition, folios>" --out "/mnt/user-data/outputs/Study File - <Story title>.md"`.
+4. Run `python3 scripts/build_study_file.py --draft /tmp/draft_final.txt --summary /tmp/summary.txt --synthesis /tmp/synthesis.txt --reader "<name>" --language "<code>" --level "<band>" --style "<style>" --source "<book, edition, folios>" --out "/mnt/user-data/outputs/Study File - <Story title>.md"`.
 5. Read the result once. The order is: the learner's notes list, summary, closing synthesis, reading record, open questions, vocabulary, recurring problems, sessions at a glance. If something is empty or wrong, fix the draft body and rebuild; do not hand-edit the output.
 6. Deliver it with `present_files`, and also save it in the repo as `Study Files/Study File - <Story title>.md` with the connector's `create_or_update_file`, next to the draft. Tell the learner in text that it is there.
 
