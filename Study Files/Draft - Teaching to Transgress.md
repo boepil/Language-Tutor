@@ -27,56 +27,83 @@ OPERATING NOTES FOR ALEX (standing):
 - Notebook format is strict, whatever an older skill text says: N. "the sentence" (Section name, PDF page n). Only the section name and the PDF page in the brackets. No context clause, no line number, no comment about why he chose it.
 
 STANDING USER PREFERENCES:
+- Wants the vocabulary list in the draft as one bullet per word, newest sitting on top, with words he asks to keep for later included in that list.
 - Wants comments on his reading and pronunciation when he asks for them, at breaks, including the specific places where his words differed from the text.
 - Asks what unknown words or whole sentences mean mid-reading; answer in a sentence or two after checking the text, then ask him to say it back.
 - Can leave a question unanswered with "let's not delve into it now"; accept it without returning to it.
 - Wants a notebook for this specific book holding the points he finds interesting, to come back to when summing up.
 - His professional subject is authority, which is why the Introduction's passages on obedience to authority interested him.
 
-VOCABULARY COVERED (earlier sessions, one word per bullet):
-- messianic zeal: intense, almost religious eagerness; "messianic" raises teaching from instruction to rescue.
-    Text: "Gone was the messianic zeal to transform our minds and beings that had characterized teachers and their pedagogical practices in our all-black schools."
-    Note: he reached for "oppression" and Alex supplied it.
-- interlopers: an intruder in a place where one is not wanted.
-    Text: "...black students were always seen as interlopers, as not really belonging"
-- chart: to map out a route.
-    Text: "Individual white male students who were seen as 'exceptional,' were often allowed to chart their intellectual journeys"
-    Note: the PDF splits it as "ch art" across a line break; he asked Alex to check.
-- banking system of education: knowledge is the money, the teacher deposits, the student holds it.
-    Text: "The banking system of education, based on the assumption that memorizing information and regurgitating it represented gaining knowledge that could be deposited, stored, and used at a later date."
-    Note: he worked out that the student's own thinking is "negligible, a tool for the authority."
-- alter: to change, usually partly; sits between the milder "intervene" and the stronger "disrupt".
-    Text: "...pedagogical strategies were needed that would intervene, alter, even disrupt the atmosphere."
-- if boredom should prevail: if boredom takes over the room, the teacher needs deliberate methods that step in and change the mood. "Should prevail" is a formal "if boredom wins".
-    Text: "And if boredom should prevail, then pedagogical strategies were needed that would intervene, alter, even disrupt the atmosphere."
-    Note: he restated it as "pedagogical structure"; Alex corrected "structure" to "strategies" and noted that boredom is the force that takes over, not a mood of the classroom.
-- counter-hegemonic: stress on the third syllable, heh-juh-MON-ik. He read it well.
-- stealthy: he said "stilted" and settled on "stealthy" for how she moves between home and school.
-- pedagogy: PED-uh-goh-jee, stress on the first syllable, soft g as in "gym"; plural pedagogies. He said "critical pedagogy and feminist pedagogy" correctly.
-- inhibiting: to hold something back or prevent it from developing.
-    Text: "the major drawback inhibiting the development of a learning community"
-- wired: full of nervous energy, the opposite of sleepy.
-    Text: "I tend to arrive wired."
-- transgressing: to cross a boundary or break a rule.
-    Text: "transgressing boundaries was frightening"
-- insurgent: rising up against an established authority; an adjective in hooks's sentence, a noun in his own.
-    Text: "Nowadays, I am recognized more for insurgent intellectual practice."
-    Note: he used it in a sentence about an insurgent subverting a government; Alex noted that works as a noun.
-- rote: said like "wrote"; learning by mechanical repetition without understanding. "Assembly-line" adds treating every pupil as the same product.
-    Text: "...those teachers who have had the courage to transgress those boundaries that would confine each pupil to a rote, assembly-line approach to learning."
-    Note: he read "route", asked what it was, and restated it as memory by repetition.
+VOCABULARY COVERED (one word per bullet, newest on top):
+
+2026-11-13 (this sitting, newest)
+- antonym: a word with the opposite meaning; AN-tuh-nim. Not in the text.
+    Note: he offered "disintegration" and "separation" as antonyms of wholeness; he asked to keep it for later vocabulary study.
+- synonym: a word with a similar meaning; SIN-uh-nim. Not in the text.
+    Note: he was looking for it while asking for a word like denigrate; he asked to keep it for later vocabulary study.
+- denigrate: to run down, treat as having little worth; DEN-ih-grayt. Near-synonyms: belittle, disparage, demean, deprecate. Antonyms: uphold, praise.
+    Text: "...bourgeois educational structures seemed to denigrate notions of wholeness and uphold the idea of a mind/body split"
+    Note: he restated it as the system not upholding wholeness; Alex pointed out the text says the structures actively belittle the idea. He asked to keep it for later vocabulary study.
+- bourgeois: boorzh-WAH; middle class; here the conventional, established institution.
+    Text: "...the objectification of the teacher within bourgeois educational structures seemed to denigrate notions of wholeness"
+- fidelity: loyalty, staying faithful to something.
+    Text: "It was difficult to maintain fidelity to the idea of the intellectual as someone who sought to be whole"
+    Note: he restated it as self-actualization being harder to maintain inside the university.
+- participatory: par-TISS-ih-tor-ee, stress on "tiss"; involving everyone taking part.
+    Text: "...professors striving to create participatory spaces for the sharing of knowledge."
+    Note: landed after a few tries.
+- compartmentalized: split into separate boxes with no connection; com-part-MEN-tuh-lized. Compartmentalization has the stress on "zay".
+    Text: "...seekers after compartmentalized bits of knowledge."
+    Note: took several tries, then landed.
+
+2026-11-08
+- receptacle: an empty container the professor fills, the banking idea. Not in the text.
+    Note: he reached for it ("a content or a vehicle ... I am lost of words"), Alex supplied it, and he used it correctly in his own sentence.
 - diminished: made lesser, reduced in value or seriousness.
     Text: "...years of socialization that had taught me to believe a classroom was diminished if students and professors regarded one another as “whole” human beings, striving not just for knowledge in books, but knowledge about how to live in the world."
     Note: he first read it the wrong way round; Alex corrected that the old belief was that seeing each other as whole made the classroom lesser.
-- receptacle: an empty container the professor fills, the banking idea. Not in the text.
-    Note: he reached for it ("a content or a vehicle ... I am lost of words"), Alex supplied it, and he used it correctly in his own sentence.
+- rote: said like "wrote"; learning by mechanical repetition without understanding. "Assembly-line" adds treating every pupil as the same product.
+    Text: "...those teachers who have had the courage to transgress those boundaries that would confine each pupil to a rote, assembly-line approach to learning."
+    Note: he read "route", asked what it was, and restated it as memory by repetition.
+
+2026-11-07
 - duller: less interesting; short vowel, stress on the first syllable, like "color".
     Text: "This surprise is a sad reminder of the way teaching is seen as a duller, less valuable aspect of the academic profession."
     Note: he read it as "dollar".
+- insurgent: rising up against an established authority; an adjective in hooks's sentence, a noun in his own.
+    Text: "Nowadays, I am recognized more for insurgent intellectual practice."
+    Note: he used it in a sentence about an insurgent subverting a government; Alex noted that works as a noun.
+
+Earlier sittings (newest first, order within a sitting is approximate)
+- transgressing: to cross a boundary or break a rule.
+    Text: "transgressing boundaries was frightening"
+- wired: full of nervous energy, the opposite of sleepy.
+    Text: "I tend to arrive wired."
+- inhibiting: to hold something back or prevent it from developing.
+    Text: "the major drawback inhibiting the development of a learning community"
+- pedagogy: PED-uh-goh-jee, stress on the first syllable, soft g as in "gym"; plural pedagogies. He said "critical pedagogy and feminist pedagogy" correctly.
+- stealthy: he said "stilted" and settled on "stealthy" for how she moves between home and school.
+- counter-hegemonic: stress on the third syllable, heh-juh-MON-ik. He read it well.
+- if boredom should prevail: if boredom takes over the room, the teacher needs deliberate methods that step in and change the mood. "Should prevail" is a formal "if boredom wins".
+    Text: "And if boredom should prevail, then pedagogical strategies were needed that would intervene, alter, even disrupt the atmosphere."
+    Note: he restated it as "pedagogical structure"; Alex corrected "structure" to "strategies" and noted that boredom is the force that takes over, not a mood of the classroom.
+- alter: to change, usually partly; sits between the milder "intervene" and the stronger "disrupt".
+    Text: "...pedagogical strategies were needed that would intervene, alter, even disrupt the atmosphere."
+- banking system of education: knowledge is the money, the teacher deposits, the student holds it.
+    Text: "The banking system of education, based on the assumption that memorizing information and regurgitating it represented gaining knowledge that could be deposited, stored, and used at a later date."
+    Note: he worked out that the student's own thinking is "negligible, a tool for the authority."
+- chart: to map out a route.
+    Text: "Individual white male students who were seen as 'exceptional,' were often allowed to chart their intellectual journeys"
+    Note: the PDF splits it as "ch art" across a line break; he asked Alex to check.
+- interlopers: an intruder in a place where one is not wanted.
+    Text: "...black students were always seen as interlopers, as not really belonging"
+- messianic zeal: intense, almost religious eagerness; "messianic" raises teaching from instruction to rescue.
+    Text: "Gone was the messianic zeal to transform our minds and beings that had characterized teachers and their pedagogical practices in our all-black schools."
+    Note: he reached for "oppression" and Alex supplied it.
 
 STILL PENDING FROM EARLIER SESSIONS:
 None for this book. The Beckett words belong to the other draft.
-The learner asked to keep denigrate, synonym and antonym for later vocabulary learning (see study record, session 2026-11-13).
+The learner asked to keep denigrate, synonym and antonym for later vocabulary learning; they are in the vocabulary list above.
 
 RECURRING ERROR PATTERN TO WATCH:
 Dropped or changed inflections and small words when reading: "learn" for "learned at home", "bus to white school" for "Bussed to white schools", "empty gesture" for "empty gestures", "enhance" for "enhances", "group" for "groups". One slip changed the sense earlier: "accepted, expected to conform" for "always expected to conform". Stress to watch: hegemonic, enthralled, insurgent, regurgitating. This sitting: "dollar" for "duller" (he noticed from the written transcript and explained he meant "dull"), "add rest" for "address" and "if" for "we cannot address this crisis if" (probably the voice transcript), "essay" for "essays", "mind" for "minds", "paradigm" for "paradigms", "the world beyond itself" for "a world beyond itself". Self-correction is strong. Engaged Pedagogy sitting: "route" for "rote"; "upon the word" for "upon the world"; "the classroom" for "a classroom"; "thoughts" for "thought"; "way to thinking" for "way of thinking"; Thich Nhat Hanh's possessive dropped before "philosophy"; "conscientization" and "liberatory" needed a second try and he self-corrected. The voice transcript may show "Ferrero" or "Führer" for "Freire"; probably transcription, may be worth saying aloud once at a break.
