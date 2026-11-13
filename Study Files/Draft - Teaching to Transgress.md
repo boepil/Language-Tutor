@@ -33,24 +33,46 @@ STANDING USER PREFERENCES:
 - Wants a notebook for this specific book holding the points he finds interesting, to come back to when summing up.
 - His professional subject is authority, which is why the Introduction's passages on obedience to authority interested him.
 
-VOCABULARY COVERED (earlier sessions, carried with the sentence from the text):
-messianic zeal: "Gone was the messianic zeal to transform our minds and beings that had characterized teachers and their pedagogical practices in our all-black schools." Zeal is intense, almost religious eagerness; messianic raises teaching from instruction to rescue. The learner reached for "oppression" and Alex supplied it.
-interlopers: "...black students were always seen as interlopers, as not really belonging" An intruder in a place where one is not wanted.
-chart: "Individual white male students who were seen as 'exceptional,' were often allowed to chart their intellectual journeys" The PDF splits it as "ch art" across a line break; the learner asked Alex to check. To chart is to map out a route.
-banking system of education: "The banking system of education, based on the assumption that memorizing information and regurgitating it represented gaining knowledge that could be deposited, stored, and used at a later date." The learner worked out that knowledge is the money, the teacher deposits, the student holds it, and the student's own thinking is "negligible, a tool for the authority."
-alter: "...pedagogical strategies were needed that would intervene, alter, even disrupt the atmosphere." To change, usually partly; it sits between the milder "intervene" and the stronger "disrupt".
-if boredom should prevail: "And if boredom should prevail, then pedagogical strategies were needed that would intervene, alter, even disrupt the atmosphere." Meaning: if boredom takes over the room, the teacher needs deliberate methods that step in and change the mood. "Should prevail" is a formal "if boredom wins". He restated it as "if the classroom is bored, then you need pedagogical structure to change the bored atmosphere"; Alex corrected "structure" to "strategies" and noted that in the text boredom is the force that takes over, not a mood of the classroom.
-counter-hegemonic: stress on the third syllable, heh-juh-MON-ik. The learner read it well.
-stealthy: the learner said "stilted" and settled on "stealthy" for how she moves between home and school.
-pedagogy: PED-uh-goh-jee, stress on the first syllable, soft g as in "gym"; plural pedagogies. The learner repeated "critical pedagogy and feminist pedagogy" and got it right.
-inhibiting: "the major drawback inhibiting the development of a learning community" To hold something back or prevent it from developing.
-wired: "I tend to arrive wired." Full of nervous energy, the opposite of sleepy.
-transgressing: "transgressing boundaries was frightening" To cross a boundary or break a rule.
-insurgent: "Nowadays, I am recognized more for insurgent intellectual practice." Rising up against an established authority; here an adjective for her rebellious scholarship. The learner used it in a sentence about an insurgent subverting a government; Alex noted it works as a noun there ("an insurgent participated") and as an adjective in hooks's sentence.
-rote: "...those teachers who have had the courage to transgress those boundaries that would confine each pupil to a rote, assembly-line approach to learning." Spelled r-o-t-e, said like "wrote"; learning by mechanical repetition without understanding. The learner read "route" and asked what it was; he restated it as memory by repetition. "Assembly-line" adds treating every pupil as the same product.
-diminished: "...years of socialization that had taught me to believe a classroom was diminished if students and professors regarded one another as “whole” human beings, striving not just for knowledge in books, but knowledge about how to live in the world." Made lesser, reduced in value or seriousness. The learner first read it the wrong way round; Alex corrected that the old belief was that seeing each other as whole made the classroom lesser.
-receptacle: not in the text. The learner reached for it ("a content or a vehicle ... I am lost of words"); Alex supplied it: an empty container the professor fills, the banking idea. He used it correctly in his own sentence.
-duller: "This surprise is a sad reminder of the way teaching is seen as a duller, less valuable aspect of the academic profession." Less interesting. The learner read it as "dollar"; the text says "duller" (short vowel, stress on the first syllable, like "color").
+VOCABULARY COVERED (earlier sessions, one word per bullet):
+- messianic zeal: intense, almost religious eagerness; "messianic" raises teaching from instruction to rescue.
+    Text: "Gone was the messianic zeal to transform our minds and beings that had characterized teachers and their pedagogical practices in our all-black schools."
+    Note: he reached for "oppression" and Alex supplied it.
+- interlopers: an intruder in a place where one is not wanted.
+    Text: "...black students were always seen as interlopers, as not really belonging"
+- chart: to map out a route.
+    Text: "Individual white male students who were seen as 'exceptional,' were often allowed to chart their intellectual journeys"
+    Note: the PDF splits it as "ch art" across a line break; he asked Alex to check.
+- banking system of education: knowledge is the money, the teacher deposits, the student holds it.
+    Text: "The banking system of education, based on the assumption that memorizing information and regurgitating it represented gaining knowledge that could be deposited, stored, and used at a later date."
+    Note: he worked out that the student's own thinking is "negligible, a tool for the authority."
+- alter: to change, usually partly; sits between the milder "intervene" and the stronger "disrupt".
+    Text: "...pedagogical strategies were needed that would intervene, alter, even disrupt the atmosphere."
+- if boredom should prevail: if boredom takes over the room, the teacher needs deliberate methods that step in and change the mood. "Should prevail" is a formal "if boredom wins".
+    Text: "And if boredom should prevail, then pedagogical strategies were needed that would intervene, alter, even disrupt the atmosphere."
+    Note: he restated it as "pedagogical structure"; Alex corrected "structure" to "strategies" and noted that boredom is the force that takes over, not a mood of the classroom.
+- counter-hegemonic: stress on the third syllable, heh-juh-MON-ik. He read it well.
+- stealthy: he said "stilted" and settled on "stealthy" for how she moves between home and school.
+- pedagogy: PED-uh-goh-jee, stress on the first syllable, soft g as in "gym"; plural pedagogies. He said "critical pedagogy and feminist pedagogy" correctly.
+- inhibiting: to hold something back or prevent it from developing.
+    Text: "the major drawback inhibiting the development of a learning community"
+- wired: full of nervous energy, the opposite of sleepy.
+    Text: "I tend to arrive wired."
+- transgressing: to cross a boundary or break a rule.
+    Text: "transgressing boundaries was frightening"
+- insurgent: rising up against an established authority; an adjective in hooks's sentence, a noun in his own.
+    Text: "Nowadays, I am recognized more for insurgent intellectual practice."
+    Note: he used it in a sentence about an insurgent subverting a government; Alex noted that works as a noun.
+- rote: said like "wrote"; learning by mechanical repetition without understanding. "Assembly-line" adds treating every pupil as the same product.
+    Text: "...those teachers who have had the courage to transgress those boundaries that would confine each pupil to a rote, assembly-line approach to learning."
+    Note: he read "route", asked what it was, and restated it as memory by repetition.
+- diminished: made lesser, reduced in value or seriousness.
+    Text: "...years of socialization that had taught me to believe a classroom was diminished if students and professors regarded one another as “whole” human beings, striving not just for knowledge in books, but knowledge about how to live in the world."
+    Note: he first read it the wrong way round; Alex corrected that the old belief was that seeing each other as whole made the classroom lesser.
+- receptacle: an empty container the professor fills, the banking idea. Not in the text.
+    Note: he reached for it ("a content or a vehicle ... I am lost of words"), Alex supplied it, and he used it correctly in his own sentence.
+- duller: less interesting; short vowel, stress on the first syllable, like "color".
+    Text: "This surprise is a sad reminder of the way teaching is seen as a duller, less valuable aspect of the academic profession."
+    Note: he read it as "dollar".
 
 STILL PENDING FROM EARLIER SESSIONS:
 None for this book. The Beckett words belong to the other draft.
@@ -66,7 +88,7 @@ Earlier sittings: "Pleasure and danger": the learner first read the danger as de
 
 QUIZ STATUS: Not given. Words available if he wants one: inhibiting, wired, transgressing, pedagogy, rote, diminished, receptacle, compartmentalized, participatory, fidelity, bourgeois, denigrate, synonym, antonym.
 
-SKILL FEEDBACK: In the 2026-11-13 voice call Alex asked a question about what the author holds onto before the learner had read that part of the sentence (a spoiler-adjacent slip, owned and dropped).  The skill text mentions one draft per story, and this draft was in an older layout (CURRENT BOOK header, notebook inside the handoff block), so it was converted by hand to the THINGS / HANDOFF / STUDY RECORD layout before draft_save.py could be used. Tool availability varies by call: bash_tool failed in one voice call, code_execution was unavailable in the next. GitHub writes from the chat connector failed with 403 until the "Claude Github MCP Connector" app (github.com/apps/claude-github-mcp-connector) was installed on the learner's account with read and write access to code; after that, create_or_update_file works, so Study Files can be saved to the repo's Study Files folder. Earlier skill feedback carried: in a past voice call the closing script ran before the learner had answered the quiz offer, because he asked for the formal ending in the same breath as stopping. The installed skill's things-i-found-important reference still says to add "a few words of context" after the page; the learner wants the short format (Section name, PDF page n) and the skill needs updating to match.
+SKILL FEEDBACK: In the 2026-11-13 voice call Alex asked a question about what the author holds onto before the learner had read that part of the sentence (a spoiler-adjacent slip, owned and dropped). The skill text mentions one draft per story, and this draft was in an older layout (CURRENT BOOK header, notebook inside the handoff block), so it was converted by hand to the THINGS / HANDOFF / STUDY RECORD layout before draft_save.py could be used. Tool availability varies by call: bash_tool failed in one voice call, code_execution was unavailable in the next. GitHub writes from the chat connector failed with 403 until the "Claude Github MCP Connector" app (github.com/apps/claude-github-mcp-connector) was installed on the learner's account with read and write access to code; after that, create_or_update_file works, so Study Files can be saved to the repo's Study Files folder. Earlier skill feedback carried: in a past voice call the closing script ran before the learner had answered the quiz offer, because he asked for the formal ending in the same breath as stopping. The installed skill's things-i-found-important reference still says to add "a few words of context" after the page; the learner wants the short format (Section name, PDF page n) and the skill needs updating to match.
 
 === STUDY RECORD ===
 --- SESSION 2026-11-07 ---
@@ -124,7 +146,7 @@ Engaged Pedagogy, denigrate | said the middle-class educational system does not 
 [OPEN]
 none new
 [STRENGTHS]
-asked for exact words when stuck (compartmentalized, participatory, fidelity, bourgeois, denigrate, ) and repeated each until it landed
+asked for exact words when stuck (compartmentalized, participatory, fidelity, bourgeois, denigrate) and repeated each until it landed
 restated fidelity and denigrate in his own words
 offered disintegration and separation as antonyms of wholeness; separation is the word the next sentence of the text uses
 [POSITION]
