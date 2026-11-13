@@ -27,7 +27,7 @@ OPERATING NOTES FOR ALEX (standing):
 - Notebook format is strict, whatever an older skill text says: N. "the sentence" (Section name, PDF page n). Only the section name and the PDF page in the brackets. No context clause, no line number, no comment about why he chose it.
 
 STANDING USER PREFERENCES:
-- Wants the vocabulary list in the draft as one bullet per word, newest sitting on top, with words he asks to keep for later included in that list.
+- Wants the vocabulary list in the draft succinct: one bullet per word, written only as "word: short meaning", newest sitting on top, with words he asks to keep for later included in that list. Sentences and notes go in the study record, not in that list.
 - Wants comments on his reading and pronunciation when he asks for them, at breaks, including the specific places where his words differed from the text.
 - Asks what unknown words or whole sentences mean mid-reading; answer in a sentence or two after checking the text, then ask him to say it back.
 - Can leave a question unanswered with "let's not delve into it now"; accept it without returning to it.
@@ -37,44 +37,50 @@ STANDING USER PREFERENCES:
 VOCABULARY COVERED (one word per bullet, newest on top):
 
 2026-11-13 (this sitting, newest)
-- antonym: a word with the opposite meaning; AN-tuh-nim. Not in the text.
-    Note: he offered "disintegration" and "separation" as antonyms of wholeness; he asked to keep it for later vocabulary study.
-- synonym: a word with a similar meaning; SIN-uh-nim. Not in the text.
-    Note: he was looking for it while asking for a word like denigrate; he asked to keep it for later vocabulary study.
-- denigrate: to run down, treat as having little worth; DEN-ih-grayt. Near-synonyms: belittle, disparage, demean, deprecate. Antonyms: uphold, praise.
-    Text: "...bourgeois educational structures seemed to denigrate notions of wholeness and uphold the idea of a mind/body split"
-    Note: he restated it as the system not upholding wholeness; Alex pointed out the text says the structures actively belittle the idea. He asked to keep it for later vocabulary study.
-- bourgeois: boorzh-WAH; middle class; here the conventional, established institution.
-    Text: "...the objectification of the teacher within bourgeois educational structures seemed to denigrate notions of wholeness"
-- fidelity: loyalty, staying faithful to something.
-    Text: "It was difficult to maintain fidelity to the idea of the intellectual as someone who sought to be whole"
-    Note: he restated it as self-actualization being harder to maintain inside the university.
-- participatory: par-TISS-ih-tor-ee, stress on "tiss"; involving everyone taking part.
-    Text: "...professors striving to create participatory spaces for the sharing of knowledge."
-    Note: landed after a few tries.
-- compartmentalized: split into separate boxes with no connection; com-part-MEN-tuh-lized. Compartmentalization has the stress on "zay".
-    Text: "...seekers after compartmentalized bits of knowledge."
-    Note: took several tries, then landed.
+- antonym: a word with the opposite meaning
+- synonym: a word with a similar meaning
+- denigrate: to run down, treat as having little worth
+- bourgeois: middle class; the conventional, established order
+- fidelity: loyalty, staying faithful to something
+- participatory: involving everyone taking part
+- compartmentalized: split into separate boxes with no connection
 
 2026-11-08
-- receptacle: an empty container the professor fills, the banking idea. Not in the text.
-    Note: he reached for it ("a content or a vehicle ... I am lost of words"), Alex supplied it, and he used it correctly in his own sentence.
-- diminished: made lesser, reduced in value or seriousness.
-    Text: "...years of socialization that had taught me to believe a classroom was diminished if students and professors regarded one another as “whole” human beings, striving not just for knowledge in books, but knowledge about how to live in the world."
-    Note: he first read it the wrong way round; Alex corrected that the old belief was that seeing each other as whole made the classroom lesser.
-- rote: said like "wrote"; learning by mechanical repetition without understanding. "Assembly-line" adds treating every pupil as the same product.
-    Text: "...those teachers who have had the courage to transgress those boundaries that would confine each pupil to a rote, assembly-line approach to learning."
-    Note: he read "route", asked what it was, and restated it as memory by repetition.
+- receptacle: an empty container the professor fills
+- diminished: made lesser
+- rote: mechanical repetition without understanding
 
 2026-11-07
-- duller: less interesting; short vowel, stress on the first syllable, like "color".
-    Text: "This surprise is a sad reminder of the way teaching is seen as a duller, less valuable aspect of the academic profession."
-    Note: he read it as "dollar".
-- insurgent: rising up against an established authority; an adjective in hooks's sentence, a noun in his own.
-    Text: "Nowadays, I am recognized more for insurgent intellectual practice."
-    Note: he used it in a sentence about an insurgent subverting a government; Alex noted that works as a noun.
+- duller: less interesting
+- insurgent: rising up against an established authority
 
 Earlier sittings (newest first, order within a sitting is approximate)
+- transgressing: crossing a boundary or breaking a rule
+- wired: full of nervous energy
+- inhibiting: holding something back
+- pedagogy: the method and practice of teaching
+- stealthy: quiet, secretive movement
+- counter-hegemonic: against the dominant power or ideology
+- if boredom should prevail: if boredom wins
+- alter: to change, usually partly
+- banking system of education: the teacher deposits knowledge, the student stores it
+- chart: to map out a route
+- interlopers: intruders in a place where they are not wanted
+- messianic zeal: intense, almost religious eagerness
+
+STILL PENDING FROM EARLIER SESSIONS:
+None for this book. The Beckett words belong to the other draft.
+The learner asked to keep denigrate, synonym and antonym for later vocabulary learning; they are in the vocabulary list above.
+
+RECURRING ERROR PATTERN TO WATCH:
+Dropped or changed inflections and small words when reading: "learn" for "learned at home", "bus to white school" for "Bussed to white schools", "empty gesture" for "empty gestures", "enhance" for "enhances", "group" for "groups". One slip changed the sense earlier: "accepted, expected to conform" for "always expected to conform". Stress to watch: hegemonic, enthralled, insurgent, regurgitating. This sitting: "dollar" for "duller" (he noticed from the written transcript and explained he meant "dull"), "add rest" for "address" and "if" for "we cannot address this crisis if" (probably the voice transcript), "essay" for "essays", "mind" for "minds", "paradigm" for "paradigms", "the world beyond itself" for "a world beyond itself". Self-correction is strong. Engaged Pedagogy sitting: "route" for "rote"; "upon the word" for "upon the world"; "the classroom" for "a classroom"; "thoughts" for "thought"; "way to thinking" for "way of thinking"; Thich Nhat Hanh's possessive dropped before "philosophy"; "conscientization" and "liberatory" needed a second try and he self-corrected. The voice transcript may show "Ferrero" or "Führer" for "Freire"; probably transcription, may be worth saying aloud once at a break.
+
+This sitting (2026-11-13): "well grounded in the context in a context" for "well-grounded in a context"; "care of the soul" with an added "a"; "seem" for "seemed"; stress to watch: compartmentalized/compartmentalization (needed several tries, landed with stress on zay), participatory (stress on tiss, landed).
+
+NOTABLE INTERPRETIVE WORK:
+Earlier sittings: "Pleasure and danger": the learner first read the danger as detachment from her ancestors; after pushback he judged that the escape from home's "image of who and what I should be" pulls harder than the loss. He described her moving between home and school "stealthily", a quiet reinvention rather than open rebellion. On "messianic" he first suggested a Christian community context; Alex pointed out the text never says the teachers were religious, and he accepted that the word raises the stakes to rescue. On authority he said hooks leans toward freedom more than thinking: "thinking is just a tool in order to set you free." Alex asked what happens when thinking leads somewhere unliberating, and again linked it to the banking system; he declined both times and wanted to read on. Open question, not to be raised unprompted: does hooks have room for thinking that does not feel liberating? In the second sitting he read through the feminist classroom, the first paradigm of her pedagogy (the classroom as an exciting place, never boring), her point that excitement in higher education was seen as a threat to seriousness and so "to transgress", and her claim that everyone's presence must be acknowledged and that excitement comes from collective effort. He singled out the last sentence as his first notebook point. In the third sitting he read hooks's account of the one class that failed as a community: the early-morning hour, the tension of differences, the resisting students, and her giving up the idea that a professor's will alone can make an exciting learning community. He read it without comment. Fourth sitting: he asked for "Teaching is a performative act" to go into his notebook as point two. On the paragraph he said the center is neither the performance nor the performer but the teaching itself, then refined it to a third element that happens between audience and performer: both engaged, and a change in the student's mind through the teacher's performance. Alex linked this to "catalyst" and asked whether the teacher changes too; he left that unanswered and went back to reading. On "insurgent" he first said hooks rebels against the idea of school as a place to acquire knowledge; asked whether it was school or scholars, he settled on the institution of education as it works now. He read through to the end of the Introduction. Fifth sitting (Engaged Pedagogy): on "diminished" he first read hooks the wrong way round; after correction he explained why the belief was hard to shake: it is what education means in the common, institutionalized sense. He described the old idea as a hierarchy, professor as holder of knowledge and student as a receptacle. On Freire and Thich Nhat Hanh he said Freire gives mutual labor, knowledge as common ground, and Thich Nhat Hanh gives contemplation joined to action; on the text's contrast (mind versus wholeness of mind, body and spirit) he reached by himself the idea that disregarding the student as a whole leaves out the possibility of healing, and named what is left out: the body and the way one lives in the world. Asked whether that changes his view of the teacher's job, he said he already held it, which is why he reads this book; it reconfirmed it. Alex did not push.
+
+VOCABULARY DETAIL FOR THE STUDY FILE (earlier sittings only, full sentences and notes; the later words are in the study record):
 - transgressing: to cross a boundary or break a rule.
     Text: "transgressing boundaries was frightening"
 - wired: full of nervous energy, the opposite of sleepy.
@@ -100,18 +106,6 @@ Earlier sittings (newest first, order within a sitting is approximate)
 - messianic zeal: intense, almost religious eagerness; "messianic" raises teaching from instruction to rescue.
     Text: "Gone was the messianic zeal to transform our minds and beings that had characterized teachers and their pedagogical practices in our all-black schools."
     Note: he reached for "oppression" and Alex supplied it.
-
-STILL PENDING FROM EARLIER SESSIONS:
-None for this book. The Beckett words belong to the other draft.
-The learner asked to keep denigrate, synonym and antonym for later vocabulary learning; they are in the vocabulary list above.
-
-RECURRING ERROR PATTERN TO WATCH:
-Dropped or changed inflections and small words when reading: "learn" for "learned at home", "bus to white school" for "Bussed to white schools", "empty gesture" for "empty gestures", "enhance" for "enhances", "group" for "groups". One slip changed the sense earlier: "accepted, expected to conform" for "always expected to conform". Stress to watch: hegemonic, enthralled, insurgent, regurgitating. This sitting: "dollar" for "duller" (he noticed from the written transcript and explained he meant "dull"), "add rest" for "address" and "if" for "we cannot address this crisis if" (probably the voice transcript), "essay" for "essays", "mind" for "minds", "paradigm" for "paradigms", "the world beyond itself" for "a world beyond itself". Self-correction is strong. Engaged Pedagogy sitting: "route" for "rote"; "upon the word" for "upon the world"; "the classroom" for "a classroom"; "thoughts" for "thought"; "way to thinking" for "way of thinking"; Thich Nhat Hanh's possessive dropped before "philosophy"; "conscientization" and "liberatory" needed a second try and he self-corrected. The voice transcript may show "Ferrero" or "Führer" for "Freire"; probably transcription, may be worth saying aloud once at a break.
-
-This sitting (2026-11-13): "well grounded in the context in a context" for "well-grounded in a context"; "care of the soul" with an added "a"; "seem" for "seemed"; stress to watch: compartmentalized/compartmentalization (needed several tries, landed with stress on zay), participatory (stress on tiss, landed).
-
-NOTABLE INTERPRETIVE WORK:
-Earlier sittings: "Pleasure and danger": the learner first read the danger as detachment from her ancestors; after pushback he judged that the escape from home's "image of who and what I should be" pulls harder than the loss. He described her moving between home and school "stealthily", a quiet reinvention rather than open rebellion. On "messianic" he first suggested a Christian community context; Alex pointed out the text never says the teachers were religious, and he accepted that the word raises the stakes to rescue. On authority he said hooks leans toward freedom more than thinking: "thinking is just a tool in order to set you free." Alex asked what happens when thinking leads somewhere unliberating, and again linked it to the banking system; he declined both times and wanted to read on. Open question, not to be raised unprompted: does hooks have room for thinking that does not feel liberating? In the second sitting he read through the feminist classroom, the first paradigm of her pedagogy (the classroom as an exciting place, never boring), her point that excitement in higher education was seen as a threat to seriousness and so "to transgress", and her claim that everyone's presence must be acknowledged and that excitement comes from collective effort. He singled out the last sentence as his first notebook point. In the third sitting he read hooks's account of the one class that failed as a community: the early-morning hour, the tension of differences, the resisting students, and her giving up the idea that a professor's will alone can make an exciting learning community. He read it without comment. Fourth sitting: he asked for "Teaching is a performative act" to go into his notebook as point two. On the paragraph he said the center is neither the performance nor the performer but the teaching itself, then refined it to a third element that happens between audience and performer: both engaged, and a change in the student's mind through the teacher's performance. Alex linked this to "catalyst" and asked whether the teacher changes too; he left that unanswered and went back to reading. On "insurgent" he first said hooks rebels against the idea of school as a place to acquire knowledge; asked whether it was school or scholars, he settled on the institution of education as it works now. He read through to the end of the Introduction. Fifth sitting (Engaged Pedagogy): on "diminished" he first read hooks the wrong way round; after correction he explained why the belief was hard to shake: it is what education means in the common, institutionalized sense. He described the old idea as a hierarchy, professor as holder of knowledge and student as a receptacle. On Freire and Thich Nhat Hanh he said Freire gives mutual labor, knowledge as common ground, and Thich Nhat Hanh gives contemplation joined to action; on the text's contrast (mind versus wholeness of mind, body and spirit) he reached by himself the idea that disregarding the student as a whole leaves out the possibility of healing, and named what is left out: the body and the way one lives in the world. Asked whether that changes his view of the teacher's job, he said he already held it, which is why he reads this book; it reconfirmed it. Alex did not push.
 
 QUIZ STATUS: Not given. Words available if he wants one: inhibiting, wired, transgressing, pedagogy, rote, diminished, receptacle, compartmentalized, participatory, fidelity, bourgeois, denigrate, synonym, antonym.
 
