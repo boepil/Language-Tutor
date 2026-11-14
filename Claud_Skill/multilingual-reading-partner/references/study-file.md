@@ -1,14 +1,13 @@
 # Study record, closing conversation, Study File
 
-Contents: Study record, When a story ends, Closing conversation, Building the Study File, After the Study File.
+Contents: Study record (the session log), When a story ends, Closing conversation, Building the Study File, After the Study File.
 
 ## Study record
-Kept silently from the first session of a story, text only, never spoken. It lives in the story's draft under the `=== STUDY RECORD ===` line and is saved with every handoff save (see the handoff reference). One block per session, headed `--- SESSION <label> ---`, where the label is the date. Each save writes the whole block for the current session; earlier sessions are never touched. Plain text, one entry per line, fields separated by ` | `. Do not put a vertical bar inside a field.
+Kept silently from the first session of a story, text only, never spoken. It lives in the story's draft, in the `## Session log` section (collapsed on GitHub, so the draft stays easy to glance at), and is saved with every handoff save (see the handoff reference). One block per session; `scripts/draft_save.py` adds its `### Session <label>` heading and fences it, where the label is the date. Each save writes the whole block for the current session; earlier sessions are never touched. Write only the entries: plain text, one entry per line, fields separated by ` | `, no code fences. Do not put a vertical bar inside a field.
 
 ```
---- SESSION 2026-11-07 ---
 [VOCAB]
-word | folio | exact sentence from the book | meaning and notes | status
+word | folio | exact sentence from the book | meaning and notes | status      (folio blank if unknown)
 [ERRORS]
 pattern | examples separated by semicolons
 [READINGS]
@@ -41,14 +40,16 @@ Ask, in speech: "What is this story about?" Let the learner answer in their own 
 Then write, in text only, a short draft summary and show it for correction. Fix whatever the learner says does not match their reading. This draft is the learner's to correct, so ask once and apply the corrections.
 
 ## Building the Study File
+The Study File, like the draft, must be easy to take in at a glance: short paragraphs of at most three sentences or short bullets, never a wall of text. Write the summary and the synthesis that way too. Name it with the title first, `<Story title> - Study File.md` (the draft starts with "Draft"), so the Study Files folder can be scanned by title.
+
 1. Write `/tmp/summary.txt`: the corrected summary, short, limited to what the text and the dialogue covered.
 2. Write `/tmp/synthesis.txt`: the closing synthesis, built from the learner's own readings across the sessions. Include where they started and where they ended on the main threads, their closing line on the story in their own words, and threads worth carrying into the next piece. Do not add a fresh retelling.
 3. Save the final draft body to `/tmp/draft_final.txt` (the draft fetched fresh from the repo with `scripts/draft_io.py fetch`).
-4. Run `python3 scripts/build_study_file.py --draft /tmp/draft_final.txt --summary /tmp/summary.txt --synthesis /tmp/synthesis.txt --reader "<name>" --language "<code>" --level "<band>" --style "<style>" --source "<book, edition, folios>" --out "/mnt/user-data/outputs/Study File - <Story title>.md"`.
-5. Read the result once. The order is: the learner's notes list, summary, closing synthesis, reading record, open questions, vocabulary, recurring problems, sessions at a glance. If something is empty or wrong, fix the draft body and rebuild; do not hand-edit the output.
-6. Deliver it with `present_files`, and also save it in the repo as `Study Files/Study File - <Story title>.md` with the connector's `create_or_update_file`, next to the draft. Tell the learner in text that it is there.
+4. Run `python3 scripts/build_study_file.py --draft /tmp/draft_final.txt --summary /tmp/summary.txt --synthesis /tmp/synthesis.txt --reader "<name>" --language "<code>" --level "<band>" --style "<style>" --source "<book, edition, folios>" --out "/mnt/user-data/outputs/<Story title> - Study File.md"`.
+5. Read the result once. The order is: the learner's notebook, summary, closing synthesis, reading record, open questions, vocabulary (the draft's own short "word: short meaning" list, newest on top), recurring problems, sessions at a glance, and an appendix with each word and the book's own sentence. If something is empty or wrong, fix the draft body and rebuild; do not hand-edit the output.
+6. Deliver it with `present_files`, and also save it in the repo as `Study Files/<Story title> - Study File.md` with the connector's `create_or_update_file`, next to the draft. Tell the learner in text that it is there.
 
 ## After the Study File
-1. Have a short conversation about anything in the draft that belongs in the skill, starting with the `SKILL FEEDBACK` lines in the handoff block. Treat them as suggestions for the skill's owner and change nothing in the skill unless the learner asks.
+1. Have a short conversation about anything in the draft that belongs in the skill, starting with the Skill feedback bullets in the draft. Treat them as suggestions for the skill's owner and change nothing in the skill unless the learner asks.
 2. Ask whether to delete the story's draft file, `Study Files/Draft - <Title>.md`. Delete it with the connector's `delete_file` (it needs the file's current sha from `draft_io.py fetch`) only on a clear yes. Never delete it before the Study File has been delivered and saved.
 3. The next story starts from a fresh draft; nothing carries over from this one.

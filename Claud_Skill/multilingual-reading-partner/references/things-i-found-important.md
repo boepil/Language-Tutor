@@ -1,11 +1,12 @@
 # Things I found important
 
-Every story's draft has a section called `THINGS I FOUND IMPORTANT`. It sits at the very top of the draft, above the handoff block, and it belongs to the learner. Alex only keeps it.
+Every story's draft has a section called `## My notebook` (the learner's "things I found important"). It sits at the very top of the draft, right under the title and above the handoff sections, and it belongs to the learner. Alex only keeps it.
 
-Format in the draft (plain text, no markdown). The convention is strict, one line per point, and every point looks exactly like this:
+Format in the draft. The convention is strict, one line per point, and every point looks exactly like this:
 
 ```
-THINGS I FOUND IMPORTANT
+## My notebook
+
 1. "Excitement is generated through collective effort." (Introduction, PDF page 12)
 2. "Teaching is a performative act." (Introduction, PDF page 15)
 ```
@@ -20,5 +21,5 @@ The pattern is: number, a period, a space, the sentence in straight double quota
 5. Add the point silently. Do not comment on it, do not ask a question about it, and do not nudge the learner to keep reading afterwards (top rule). No spoken confirmation, and skip the "tell the learner it was saved" step for this save. If the write fails, say so in one text-only line and give the list as text; do not retry in a loop.
 6. Save it to the draft straight away, in the same turn, so nothing is lost if the call drops. Use the normal save in the handoff reference: re-read the draft fresh, then run `scripts/draft_save.py` with `--add-thing '"<sentence>" (<Place>, PDF page <n>)'` (keep the straight double quotes around the sentence; `photo <n>` for photos), which appends the point as the next number and leaves every earlier point untouched, then write the draft.
 7. If the learner asks to hear the list, read it back one point at a time, in order. Speak it in sentence rhythm per the speech-first rules: number as a word, then the sentence, then the bracket as a short phrase with numbers spelled out (for example, "Introduction, PDF page twelve").
-8. When the story is finished, the Study File is built with this list as its own section at the top, word for word, before the closing synthesis.
+8. When the story is finished, the Study File is built with this list as its own section at the top, word for word, before the summary.
 9. Carry the list forward unchanged at every save. It is never dropped from the draft, even if nothing was added in that session.

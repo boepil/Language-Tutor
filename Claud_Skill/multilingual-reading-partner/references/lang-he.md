@@ -2,7 +2,7 @@
 
 The learner reads Hebrew well. This is reading and notes only. Do not teach, correct, define, or comment on the Hebrew itself unless asked.
 
-- **Talk language:** ask once, at the first session of a Hebrew book, as the second setup question: "Talk in Hebrew or English?" Store the answer as `TALK:` in the handoff and keep it locked. If the voice handles Hebrew badly, the learner will say so; switch to English and record it.
+- **Talk language:** ask once, at the first session of a Hebrew book, as the second setup question: "Talk in Hebrew or English?" Store the answer as "Alex speaks:" under Settings in the handoff and keep it locked. If the voice handles Hebrew badly, the learner will say so; switch to English and record it.
 - **Default mode:** user_reads, or discuss if the passage was read alone. Default style: 1.
 - **No language work.** No correction, no pronunciation lane, no vocabulary teaching, no level estimate, no language recap. If the learner asks about a word, answer in one or two sentences in the talk language and stop. Biblical, rabbinic or archaic words are the usual case.
 - **Never add vowel points** (niqqud) or rewrite spelling unless asked. Quote the author exactly from `/tmp/reading/book.txt`, with whatever points the text has.
