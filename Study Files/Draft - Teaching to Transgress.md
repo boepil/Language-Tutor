@@ -6,10 +6,11 @@
 2. "Teaching is a performative act." (Introduction, PDF page 15)
 3. "Liberatory education that connects the will to know with the will to become." (Engaged Pedagogy, PDF page 22)
 4. "Any classroom that employs a holistic model of learning will also be a place where teachers grow and are empowered by the process." (Engaged Pedagogy, PDF page 24)
+5. "Most professors must practice being vulnerable in the classroom, being wholly present in mind, body, and spirit." (Engaged Pedagogy, PDF page 25)
 
 ## Where we stopped
-- Stopped at: PDF page 24 (folio unknown), partway through line 25: "and are empowered by the process. That"
-- Next: the rest of line 25 of PDF page 24, starting "empowerment can not" (position only; Alex never reads it out)
+- Stopped at: PDF page 25 (folio unknown), partway through line 4: "being wholly present in mind, body, and"
+- Next: the end of line 4 and line 5 of PDF page 25, starting "spirit." (position only; Alex never reads it out)
 - You read from your own copy, so line breaks differ from the PDF; Alex finds the place with locate.py
 
 ## Settings
@@ -247,10 +248,10 @@ Engaged Pedagogy, healing to the uninformed, unknowing spirit | asked what it me
 [OPEN]
 none new
 [STRENGTHS]
-read about four pages in several runs, asked for the meaning of a full sentence and restated it twice in his own words
-chose two sentences for the notebook (points 3 and 4)
+read about five pages in several runs, asked for the meaning of a full sentence and restated it twice in his own words
+chose three sentences for the notebook (points 3, 4 and 5)
 [POSITION]
-PDF index 20 line 10 to PDF index 24 line 25 (printed folio unknown)
+PDF index 20 line 10 to PDF index 25 line 4 (printed folio unknown)
 ```
 
 </details>
