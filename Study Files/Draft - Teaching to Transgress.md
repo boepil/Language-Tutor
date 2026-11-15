@@ -20,7 +20,12 @@
 
 ## Vocabulary covered (one word per bullet, newest on top)
 
-2026-11-13 (this sitting, newest)
+2026-11-15 (this sitting, newest)
+
+- batterers: people who repeatedly hit or physically abuse others, usually a partner or family member
+- enthralled: completely captivated, held by something so strongly you cannot look away
+
+2026-11-13
 
 - antonym: a word with the opposite meaning
 - synonym: a word with a similar meaning
@@ -80,7 +85,7 @@ Earlier sittings (newest first, order within a sitting is approximate)
 
 ## Quiz
 - Not given yet
-- Words available if you want one: inhibiting, wired, transgressing, pedagogy, rote, diminished, receptacle, compartmentalized, participatory, fidelity, bourgeois, denigrate, synonym, antonym
+- Words available if you want one: inhibiting, wired, transgressing, pedagogy, rote, diminished, receptacle, compartmentalized, participatory, fidelity, bourgeois, denigrate, synonym, antonym, enthralled, batterers
 
 ## How you like it
 - Vocabulary list short: "word: short meaning", newest on top, including words you ask to keep for later; sentences and notes go in the session log
@@ -217,7 +222,8 @@ PDF index 18 line 28 to PDF index 20 line 9 (printed folio unknown)
 
 ```text
 [VOCAB]
-none new
+enthralled | None | More than anything they seemed enthralled by the exercise of power and authority within their mini-kingdom, the classroom. | completely captivated, held by something so strongly you cannot look away; here the professors are absorbed in their own power; he declined to say it back | unquizzed
+batterers | None | This meant that whether academics were drug addicts, alcoholics, batterers, or sexual abusers, the only important aspect of our identity was whether or not our minds functioned | people who repeatedly hit or physically abuse others, usually a partner or family member; the voice transcript showed "betterers" | unquizzed
 [ERRORS]
 none recorded (read without stops; voice transcript only)
 [READINGS]
