@@ -4,11 +4,11 @@
 
 1. "Excitement is generated through collective effort." (Introduction, PDF page 12)
 2. "Teaching is a performative act." (Introduction, PDF page 15)
+3. "Liberatory education that connects the will to know with the will to become." (Engaged Pedagogy, PDF page 22)
 
 ## Where we stopped
-- Stopped at: PDF page 21 (folio unknown), end of line 10: "styles I wanted to emulate."
-- That ends the passage on professors as "benevolent dictators" and her not wanting to emulate her teachers
-- Next: line 11 of PDF page 21, starting "My commitment to learning kept" (position only; Alex never reads it out)
+- Stopped at: PDF page 22 (folio unknown), partway through line 17: "to know with the will to become."
+- Next: the rest of line 17 of PDF page 22, starting "Within professorial circles," (position only; Alex never reads it out)
 - You read from your own copy, so line breaks differ from the PDF; Alex finds the place with locate.py
 
 ## Settings
@@ -22,6 +22,8 @@
 
 2026-11-15 (this sitting, newest)
 
+- liberatory: freeing, setting people free
+- eschew: to deliberately avoid something on principle
 - batterers: people who repeatedly hit or physically abuse others, usually a partner or family member
 - enthralled: completely captivated, held by something so strongly you cannot look away
 
@@ -85,7 +87,7 @@ Earlier sittings (newest first, order within a sitting is approximate)
 
 ## Quiz
 - Not given yet
-- Words available if you want one: inhibiting, wired, transgressing, pedagogy, rote, diminished, receptacle, compartmentalized, participatory, fidelity, bourgeois, denigrate, synonym, antonym, enthralled, batterers
+- Words available if you want one: inhibiting, wired, transgressing, pedagogy, rote, diminished, receptacle, compartmentalized, participatory, fidelity, bourgeois, denigrate, synonym, antonym, enthralled, batterers, eschew, liberatory
 
 ## How you like it
 - Vocabulary list short: "word: short meaning", newest on top, including words you ask to keep for later; sentences and notes go in the session log
@@ -222,18 +224,22 @@ PDF index 18 line 28 to PDF index 20 line 9 (printed folio unknown)
 
 ```text
 [VOCAB]
+eschew | None | ...if they eschew dysfunctional behavior or participation in coercive hierarchies. | to deliberately avoid something on principle; es-CHOO; he asked for the sentence's meaning too | unquizzed
+liberatory | None | ...the vision of liberatory education that connects the will to know with the will to become. | freeing, tied to liberate; LIB-ur-uh-tor-ee, stress on the first syllable; he asked how to say it and repeated it | unquizzed
 enthralled | None | More than anything they seemed enthralled by the exercise of power and authority within their mini-kingdom, the classroom. | completely captivated, held by something so strongly you cannot look away; here the professors are absorbed in their own power; he declined to say it back | unquizzed
 batterers | None | This meant that whether academics were drug addicts, alcoholics, batterers, or sexual abusers, the only important aspect of our identity was whether or not our minds functioned | people who repeatedly hit or physically abuse others, usually a partner or family member; the voice transcript showed "betterers" | unquizzed
 [ERRORS]
 none recorded (read without stops; voice transcript only)
+stress asked about | liberatory (LIB-ur-uh-tor-ee, said it back); hostile
 [READINGS]
-none this sitting (read straight through, no discussion)
+Engaged Pedagogy, students' fear of academia | asked about the eschew sentence; first restated it as professors dividing mind from spirit and conduct from intelligence; then that coercive hierarchies are the university system and professors' bad behavior | Alex tied it to the earlier line on batterers and addicts and said the students fear failing if they refuse that split; coercive hierarchies are the power structures themselves, the bad behavior grows inside them; he said it was clear
 [OPEN]
 none new
 [STRENGTHS]
-read about a page and a half in one run without needing help
+read about two pages in a few runs, asked for the meaning of a full sentence and restated it twice in his own words
+chose a sentence for the notebook (point 3)
 [POSITION]
-PDF index 20 line 10 to PDF index 21 line 10 (printed folio unknown)
+PDF index 20 line 10 to PDF index 22 line 17 (printed folio unknown)
 ```
 
 </details>
