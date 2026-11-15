@@ -6,9 +6,9 @@
 2. "Teaching is a performative act." (Introduction, PDF page 15)
 
 ## Where we stopped
-- Stopped at: PDF page 20 (folio unknown), end of line 9: "supports compartmentalization."
-- That ends the paragraph on the mind/body split and bourgeois educational structures
-- Next: line 10 of PDF page 20, starting "This support reinforces" (position only; Alex never reads it out)
+- Stopped at: PDF page 21 (folio unknown), end of line 10: "styles I wanted to emulate."
+- That ends the passage on professors as "benevolent dictators" and her not wanting to emulate her teachers
+- Next: line 11 of PDF page 21, starting "My commitment to learning kept" (position only; Alex never reads it out)
 - You read from your own copy, so line breaks differ from the PDF; Alex finds the place with locate.py
 
 ## Settings
@@ -211,6 +211,23 @@ restated fidelity and denigrate in his own words
 offered disintegration and separation as antonyms of wholeness; separation is the word the next sentence of the text uses
 [POSITION]
 PDF index 18 line 28 to PDF index 20 line 9 (printed folio unknown)
+```
+
+### Session 2026-11-15
+
+```text
+[VOCAB]
+none new
+[ERRORS]
+none recorded (read without stops; voice transcript only)
+[READINGS]
+none this sitting (read straight through, no discussion)
+[OPEN]
+none new
+[STRENGTHS]
+read about a page and a half in one run without needing help
+[POSITION]
+PDF index 20 line 10 to PDF index 21 line 10 (printed folio unknown)
 ```
 
 </details>
