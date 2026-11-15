@@ -5,10 +5,11 @@
 1. "Excitement is generated through collective effort." (Introduction, PDF page 12)
 2. "Teaching is a performative act." (Introduction, PDF page 15)
 3. "Liberatory education that connects the will to know with the will to become." (Engaged Pedagogy, PDF page 22)
+4. "Any classroom that employs a holistic model of learning will also be a place where teachers grow and are empowered by the process." (Engaged Pedagogy, PDF page 24)
 
 ## Where we stopped
-- Stopped at: PDF page 22 (folio unknown), partway through line 17: "to know with the will to become."
-- Next: the rest of line 17 of PDF page 22, starting "Within professorial circles," (position only; Alex never reads it out)
+- Stopped at: PDF page 24 (folio unknown), partway through line 25: "and are empowered by the process. That"
+- Next: the rest of line 25 of PDF page 24, starting "empowerment can not" (position only; Alex never reads it out)
 - You read from your own copy, so line breaks differ from the PDF; Alex finds the place with locate.py
 
 ## Settings
@@ -22,6 +23,10 @@
 
 2026-11-15 (this sitting, newest)
 
+- allegiance: loyalty or commitment to a group or cause
+- abhorred: hated deeply, found repellent
+- fraternity: a social club for male college students in the US, with its own initiation
+- adamant: firmly insisting, refusing to be talked out of something
 - liberatory: freeing, setting people free
 - eschew: to deliberately avoid something on principle
 - batterers: people who repeatedly hit or physically abuse others, usually a partner or family member
@@ -87,7 +92,7 @@ Earlier sittings (newest first, order within a sitting is approximate)
 
 ## Quiz
 - Not given yet
-- Words available if you want one: inhibiting, wired, transgressing, pedagogy, rote, diminished, receptacle, compartmentalized, participatory, fidelity, bourgeois, denigrate, synonym, antonym, enthralled, batterers, eschew, liberatory
+- Words available if you want one: inhibiting, wired, transgressing, pedagogy, rote, diminished, receptacle, compartmentalized, participatory, fidelity, bourgeois, denigrate, synonym, antonym, enthralled, batterers, eschew, liberatory, adamant, fraternity, abhorred, allegiance
 
 ## How you like it
 - Vocabulary list short: "word: short meaning", newest on top, including words you ask to keep for later; sentences and notes go in the session log
@@ -224,22 +229,28 @@ PDF index 18 line 28 to PDF index 20 line 9 (printed folio unknown)
 
 ```text
 [VOCAB]
+allegiance | None | ...the fraternity had encouraged one-dimensional allegiance | loyalty or commitment to a group or cause; uh-LEE-jence, stress on the second syllable; he asked how to say it and repeated it | unquizzed
+abhorred | None | ...a vision of black manhood that she abhorred. | hated deeply, found repellent; ab-HOR, stress on the second syllable; he repeated it | unquizzed
+fraternity | None | ...as he began to devote his time to pledging a fraternity rather than cultivating his writing. | a social club for male college students in the US with its own house and initiation; pledging is the initiation period | unquizzed
+adamant | None | ...while they despair, they are also adamant that education should be liberatory. | firmly insisting, refusing to be talked out of something; AD-uh-munt, stress on the first syllable; he asked and repeated it | unquizzed
 eschew | None | ...if they eschew dysfunctional behavior or participation in coercive hierarchies. | to deliberately avoid something on principle; es-CHOO; he asked for the sentence's meaning too | unquizzed
 liberatory | None | ...the vision of liberatory education that connects the will to know with the will to become. | freeing, tied to liberate; LIB-ur-uh-tor-ee, stress on the first syllable; he asked how to say it and repeated it | unquizzed
 enthralled | None | More than anything they seemed enthralled by the exercise of power and authority within their mini-kingdom, the classroom. | completely captivated, held by something so strongly you cannot look away; here the professors are absorbed in their own power; he declined to say it back | unquizzed
 batterers | None | This meant that whether academics were drug addicts, alcoholics, batterers, or sexual abusers, the only important aspect of our identity was whether or not our minds functioned | people who repeatedly hit or physically abuse others, usually a partner or family member; the voice transcript showed "betterers" | unquizzed
 [ERRORS]
 none recorded (read without stops; voice transcript only)
-stress asked about | liberatory (LIB-ur-uh-tor-ee, said it back); hostile
+stress asked about | liberatory (LIB-ur-uh-tor-ee, said it back); hostile; adamant; abhorred; allegiance
 [READINGS]
 Engaged Pedagogy, students' fear of academia | asked about the eschew sentence; first restated it as professors dividing mind from spirit and conduct from intelligence; then that coercive hierarchies are the university system and professors' bad behavior | Alex tied it to the earlier line on batterers and addicts and said the students fear failing if they refuse that split; coercive hierarchies are the power structures themselves, the bad behavior grows inside them; he said it was clear
+Engaged Pedagogy, encounter groups | asked what the phrase means; Alex explained it as group therapy where people share feelings, used by professors as a complaint | he moved on without comment
+Engaged Pedagogy, healing to the uninformed, unknowing spirit | asked what it means; said a class that strives for the truth and combines body and mind | Alex said it is the whole person growing and connected to life experience, and that the phrase is one unit in the text; he added "striving for the truth" himself and moved on when asked what it adds
 [OPEN]
 none new
 [STRENGTHS]
-read about two pages in a few runs, asked for the meaning of a full sentence and restated it twice in his own words
-chose a sentence for the notebook (point 3)
+read about four pages in several runs, asked for the meaning of a full sentence and restated it twice in his own words
+chose two sentences for the notebook (points 3 and 4)
 [POSITION]
-PDF index 20 line 10 to PDF index 22 line 17 (printed folio unknown)
+PDF index 20 line 10 to PDF index 24 line 25 (printed folio unknown)
 ```
 
 </details>
