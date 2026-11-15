@@ -9,8 +9,8 @@
 5. "Most professors must practice being vulnerable in the classroom, being wholly present in mind, body, and spirit." (Engaged Pedagogy, PDF page 25)
 
 ## Where we stopped
-- Stopped at: PDF page 25 (folio unknown), partway through line 4: "being wholly present in mind, body, and"
-- Next: the end of line 4 and line 5 of PDF page 25, starting "spirit." (position only; Alex never reads it out)
+- Stopped at: PDF page 25 (folio unknown), end of line 26: "live fully and deeply." That ends the chapter Engaged Pedagogy
+- Next: the start of PDF page 26, the next chapter's opening (position only; Alex never reads it out)
 - You read from your own copy, so line breaks differ from the PDF; Alex finds the place with locate.py
 
 ## Settings
@@ -24,6 +24,7 @@
 
 2026-11-15 (this sitting, newest)
 
+- subjugated knowledge: knowledge that was suppressed or pushed aside, such as histories and voices official teaching left out
 - allegiance: loyalty or commitment to a group or cause
 - abhorred: hated deeply, found repellent
 - fraternity: a social club for male college students in the US, with its own initiation
@@ -93,7 +94,7 @@ Earlier sittings (newest first, order within a sitting is approximate)
 
 ## Quiz
 - Not given yet
-- Words available if you want one: inhibiting, wired, transgressing, pedagogy, rote, diminished, receptacle, compartmentalized, participatory, fidelity, bourgeois, denigrate, synonym, antonym, enthralled, batterers, eschew, liberatory, adamant, fraternity, abhorred, allegiance
+- Words available if you want one: inhibiting, wired, transgressing, pedagogy, rote, diminished, receptacle, compartmentalized, participatory, fidelity, bourgeois, denigrate, synonym, antonym, enthralled, batterers, eschew, liberatory, adamant, fraternity, abhorred, allegiance, subjugated knowledge
 
 ## How you like it
 - Vocabulary list short: "word: short meaning", newest on top, including words you ask to keep for later; sentences and notes go in the session log
@@ -230,6 +231,7 @@ PDF index 18 line 28 to PDF index 20 line 9 (printed folio unknown)
 
 ```text
 [VOCAB]
+subjugated knowledge | None | Uncovering and reclaiming subjugated knowledge is one way to lay claims to alternative histories. | knowledge that was suppressed or pushed aside, such as histories and voices official teaching left out; he first read it as knowledge transformed to serve the current elite, Alex corrected it | unquizzed
 allegiance | None | ...the fraternity had encouraged one-dimensional allegiance | loyalty or commitment to a group or cause; uh-LEE-jence, stress on the second syllable; he asked how to say it and repeated it | unquizzed
 abhorred | None | ...a vision of black manhood that she abhorred. | hated deeply, found repellent; ab-HOR, stress on the second syllable; he repeated it | unquizzed
 fraternity | None | ...as he began to devote his time to pledging a fraternity rather than cultivating his writing. | a social club for male college students in the US with its own house and initiation; pledging is the initiation period | unquizzed
@@ -245,13 +247,14 @@ stress asked about | liberatory (LIB-ur-uh-tor-ee, said it back); hostile; adama
 Engaged Pedagogy, students' fear of academia | asked about the eschew sentence; first restated it as professors dividing mind from spirit and conduct from intelligence; then that coercive hierarchies are the university system and professors' bad behavior | Alex tied it to the earlier line on batterers and addicts and said the students fear failing if they refuse that split; coercive hierarchies are the power structures themselves, the bad behavior grows inside them; he said it was clear
 Engaged Pedagogy, encounter groups | asked what the phrase means; Alex explained it as group therapy where people share feelings, used by professors as a complaint | he moved on without comment
 Engaged Pedagogy, healing to the uninformed, unknowing spirit | asked what it means; said a class that strives for the truth and combines body and mind | Alex said it is the whole person growing and connected to life experience, and that the phrase is one unit in the text; he added "striving for the truth" himself and moved on when asked what it adds
+Engaged Pedagogy, Mohanty on resistance and subjugated knowledge | said the paragraph was a mouthful and he missed its meaning; after Alex's plain version: subjugated knowledge is knowledge transformed to serve the elite, resistance is uncovering and reclaiming it, but it is not enough, education should also transform the classroom itself | Alex corrected subjugated knowledge to knowledge suppressed or pushed aside, not knowledge bent to serve the elite; he accepted it; the second half of his reading stood
 [OPEN]
 none new
 [STRENGTHS]
-read about five pages in several runs, asked for the meaning of a full sentence and restated it twice in his own words
+read about five and a half pages in several runs, asked for the meaning of a full sentence and restated it twice in his own words
 chose three sentences for the notebook (points 3, 4 and 5)
 [POSITION]
-PDF index 20 line 10 to PDF index 25 line 4 (printed folio unknown)
+PDF index 20 line 10 to PDF index 25 line 26, end of the chapter Engaged Pedagogy (printed folio unknown)
 ```
 
 </details>
