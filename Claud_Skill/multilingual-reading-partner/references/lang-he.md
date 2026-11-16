@@ -12,22 +12,28 @@ The learner reads Hebrew well. This is reading and notes only. Do not teach, cor
 - **Closing:** the spoken theme takeaway only, in the talk language, then the save. No quiz unless the learner asks.
 - **Notes:** the learner's own sentences go in the notes list exactly as they said them, in Hebrew when they were in Hebrew. The bracket stays in the strict format (`(Place, PDF page N)`), with the place written in the book's own words.
 
-## Draft in Hebrew
-For a Hebrew book the whole readable part of the draft is written in Hebrew, so it reads at a glance in the learner's own language. This covers the handoff sections: headings, labels and bullets. Use these headings, in this order, and omit a section that has nothing in it. Each is one short bullet per line, as the handoff reference describes.
+## Draft and Study File in Hebrew
+For a Hebrew book everything the learner reads in the draft and in the Study File is in Hebrew: the title line, every heading, the labels and the bullets. Save with `--lang he` on `draft_save.py`, and build the Study File with `--language he` on `build_study_file.py`. Without those options the scripts write English headings.
 
+Frame headings, written by the script (never typed by hand):
+- title line: `# <Title> - טיוטה`
+- notebook: `## המחברת שלי`
+- session log: `## יומן מפגשים`, with each session as `### מפגש <date>`
+
+Handoff sections, written by Alex, in this order, omitting any section with nothing in it. One short bullet per line, as the handoff reference describes.
 - `## איפה עצרנו` instead of Where we stopped: "עצרנו ב...", "הבא:".
 - `## הגדרות` instead of Settings: שפה, אלכס מדבר, מצב, סגנון, תיקונים.
-- `## מילים שעברנו (מילה בכל שורה, החדשות למעלה)` instead of Vocabulary covered. Only words the learner asked about.
+- `## מילים (מילה בכל שורה, החדשות למעלה)` instead of Vocabulary covered. Only words the learner asked about. The heading must start with the word מילים, because the Study File builder looks for it.
 - `## מה הגעת אליו` instead of What you worked out: the learner's readings, never Alex's.
 - `## שאלות פתוחות` instead of Open questions.
 - `## חידון` instead of Quiz.
 - `## איך נוח לך` instead of How you like it.
 - `## הערות לאלכס` instead of Notes for Alex.
-- `## מילים לקראת ההמשך` instead of Words to expect.
+- `## מילים לקראת ההמשך` instead of Words to expect. Because this starts with מילים too, put it after the vocabulary section; the builder reads the first one.
 - `## משוב על הסקיל` instead of Skill feedback.
 
-Keep these in English, because the scripts match them exactly: the page title line `# <Title> (<Author>) - draft`, the headings `## My notebook` and `## Session log`, and the tags in the session log such as `[READINGS]`, `[OPEN]` and `[POSITION]`. The text inside the session log entries and the learner's notebook points stay in Hebrew.
+Keep in English, because the scripts read them exactly: the tags inside the session log (`[READINGS]`, `[OPEN]`, `[VOCAB]`, `[POSITION]`) and the notebook point format `"sentence" (Place, PDF page N)`. The text after the tags, and the sentence and place in a notebook point, are written in Hebrew. Language codes such as `he` and mode names such as `user_reads` stay as written.
 
-One Hebrew line per bullet, and keep Hebrew on its own lines; do not mix English inline in a running line. Page references use "עמ'" and a number. Language codes such as `he` and mode names such as `user_reads` stay as written.
+One Hebrew line per bullet, and keep Hebrew on its own lines; do not mix English inline in a running line. Page references use "עמ'" and a number.
 
-The Study File builder finds the draft's short vocabulary list by a heading that starts with the English word Vocabulary, so a Hebrew vocabulary heading is not picked up from the handoff. It still builds the Vocabulary section from the `[VOCAB]` lines in the session log. On a Hebrew book vocabulary is only for words the learner asked about, so log each such word under `[VOCAB]` and the Study File will include it. The Study File's own headings stay in English; only the draft's handoff is in Hebrew.
+The Study File takes its Hebrew labels from the script: "המחברת שלי", "סיכום הסיפור", "תיעוד הקריאה", "מילים", "קשיים חוזרים", "המפגשים במבט", and a Hebrew appendix. The summary and closing synthesis are written in Hebrew too.
