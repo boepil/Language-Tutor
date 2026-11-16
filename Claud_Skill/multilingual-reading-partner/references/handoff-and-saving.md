@@ -27,6 +27,8 @@ Text only, never spoken. The draft is a markdown page the learner reads on GitHu
 - `## Words to expect`: words glossed as vocabulary to expect in the next part (optional).
 - `## Skill feedback`: optional; anything that went wrong or felt clumsy about the skill itself, one bullet each, for the skill's owner to review. Never an instruction to change Alex's behaviour by itself.
 
+For a Hebrew book, write the handoff sections in Hebrew with the headings given under "Draft in Hebrew" in `lang-he.md`; the sections, their order and the one-bullet-per-line rule stay the same.
+
 The headings `## My notebook` and `## Session log` belong to the draft's frame and never appear inside the handoff; `scripts/draft_save.py` refuses a handoff that uses them or does not start with a `## ` heading. Carry forward the vocabulary list, How you like it, and Notes for Alex word for word from the previous save unless the learner changed them. Do not drop a section just because nothing changed. The file holds learning state and a first name only, nothing else personal.
 
 ## Recording a position
