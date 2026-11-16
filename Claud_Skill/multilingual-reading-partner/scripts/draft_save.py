@@ -42,12 +42,17 @@ The draft is a readable markdown page, built to be glanced at on GitHub. Layout:
 Older drafts (STORY: line, === HANDOFF ===, === STUDY RECORD ===) are still read; any save writes the
 new layout.
 
+Hebrew books: pass --lang he. The frame is then written in Hebrew ("# <Title> - טיוטה",
+"## המחברת שלי", "## יומן מפגשים", "### מפגש <label>"). The parser reads either language, so a
+draft can be re-saved with either option; the tags inside the log ([READINGS] and so on) always
+stay in English.
+
 Usage:
   draft_save.py --story "First Love (Samuel Beckett)" --handoff handoff.md \\
       [--existing old_body.txt] \\
       [--add-thing '"the learner's sentence" (Introduction, PDF page 27)']... \\
       [--session-label "2026-11-07" --record record.txt] \\
-      [--out merged.txt]
+      [--lang he] [--out merged.txt]
 
 What it does:
   - Replaces the handoff sections with the new ones (the handoff must start with a "## " heading).
@@ -68,8 +73,17 @@ OLD_SESSION_RE = re.compile(r"^--- SESSION (.+?) ---\s*$")
 
 NOTEBOOK_HDR = "## My notebook"
 LOG_HDR = "## Session log"
-TITLE_RE = re.compile(r"^#\s+(.*?)(?:\s+-\s+draft)?\s*$")
-SESSION_RE = re.compile(r"^### Session (.+?)\s*$")
+# Hebrew books use Hebrew frame headings; the parser accepts either form.
+NOTEBOOK_HDRS = (NOTEBOOK_HDR, "## המחברת שלי")
+LOG_HDRS = (LOG_HDR, "## יומן מפגשים")
+HE_TITLE_SUFFIX = "טיוטה"
+SUMMARY_TEXT = {
+    "en": "Full detail per session (the Study File is built from this)",
+    "he": "פירוט מלא לכל מפגש (קובץ הלימוד נבנה מכאן)",
+}
+SESSION_WORD = {"en": "Session", "he": "מפגש"}
+TITLE_RE = re.compile(r"^#\s+(.*?)(?:\s+-\s+(?:draft|טיוטה))?\s*$")
+SESSION_RE = re.compile(r"^### (?:Session|מפגש) (.+?)\s*$")
 WRAPPER = ("```text", "```", "<details>", "</details>")
 # Strict notes convention: "sentence" (Place, PDF page N) or (Place, photo N)
 THING_RE = re.compile(r'^"[^"].*" \([^()\n]+, (?:PDF page|photo) \d+\)$')
@@ -119,8 +133,8 @@ def _parse_new(lines):
             story = m.group(1).strip()
             break
     idx = {l.strip(): i for i, l in reversed(list(enumerate(lines)))}
-    n = idx.get(NOTEBOOK_HDR)
-    r = idx.get(LOG_HDR)
+    n = next((idx[h] for h in NOTEBOOK_HDRS if h in idx), None)
+    r = next((idx[h] for h in LOG_HDRS if h in idx), None)
     things, handoff = [], []
     if n is not None:
         stop = next((i for i in range(n + 1, len(lines)) if lines[i].startswith("## ")), len(lines))
@@ -154,13 +168,15 @@ def next_number(things):
     return (max(nums) + 1) if nums else 1
 
 
-def compose(story, things, handoff, sessions, order):
-    out = [f"# {story} - draft", "", NOTEBOOK_HDR, ""]
+def compose(story, things, handoff, sessions, order, lang="en"):
+    he = lang == "he"
+    title_word = HE_TITLE_SUFFIX if he else "draft"
+    out = [f"# {story} - {title_word}", "", NOTEBOOK_HDRS[1] if he else NOTEBOOK_HDR, ""]
     out += things
-    out += ["", handoff, "", LOG_HDR, "", "<details>",
-            "<summary>Full detail per session (the Study File is built from this)</summary>", ""]
+    out += ["", handoff, "", LOG_HDRS[1] if he else LOG_HDR, "", "<details>",
+            f"<summary>{SUMMARY_TEXT[lang]}</summary>", ""]
     for label in order:
-        out += [f"### Session {label}", "", "```text", sessions[label], "```", ""]
+        out += [f"### {SESSION_WORD[lang]} {label}", "", "```text", sessions[label], "```", ""]
     out += ["</details>"]
     return "\n".join(out).rstrip("\n") + "\n"
 
@@ -173,6 +189,8 @@ def main():
     ap.add_argument("--add-thing", action="append", default=[], help="a new point for My notebook")
     ap.add_argument("--session-label", help="label for this session's log entries")
     ap.add_argument("--record", help="file with this session's log entries")
+    ap.add_argument("--lang", choices=["en", "he"], default="en",
+                    help="language of the frame headings (he for Hebrew books)")
     ap.add_argument("--out")
     a = ap.parse_args()
 
@@ -199,8 +217,8 @@ def main():
     handoff = open(a.handoff, encoding="utf-8").read().strip("\n")
     if not handoff.startswith("## "):
         sys.exit("ABORT: the handoff must be the new layout and start with a '## ' heading (for example '## Where we stopped')")
-    if NOTEBOOK_HDR in handoff.splitlines() or LOG_HDR in handoff.splitlines():
-        sys.exit(f"ABORT: the handoff must not contain the '{NOTEBOOK_HDR}' or '{LOG_HDR}' headings")
+    if any(h in handoff.splitlines() for h in NOTEBOOK_HDRS + LOG_HDRS):
+        sys.exit("ABORT: the handoff must not contain the notebook or session-log frame headings")
 
     if a.session_label:
         entries = open(a.record, encoding="utf-8").read().strip("\n")
@@ -210,7 +228,7 @@ def main():
             order.append(a.session_label)
         sessions[a.session_label] = entries
 
-    merged = compose(story, things, handoff, sessions, order)
+    merged = compose(story, things, handoff, sessions, order, a.lang)
 
     # Verify by re-parsing: nothing the learner owns, and no other session, may have changed.
     _s, chk_things, chk_handoff, chk_sessions, _o = parse(merged)
