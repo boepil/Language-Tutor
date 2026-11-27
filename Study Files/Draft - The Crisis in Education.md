@@ -6,9 +6,9 @@
 2. "Summary of the passage: Arendt says the pathos of the new, older than the eighteenth century but developed politically only then, gave rise to an educational ideal tinged with Rousseauism, in which education became an instrument of politics and political activity itself was a form of education." (The Crisis in Education, PDF page 194)
 
 ## Where we stopped
-- Stopped at: The Crisis in Education, section I, PDF page 194, printed folio 9 (INFERRED)
-- Body line: at the end of line 13, right after "was conceived of as a form of education."
-- Next: "The role played by education in all political utopias from ancient times onward shows how natural it seems to start a new"
+- Stopped at: The Crisis in Education, end of section I, PDF page 198, printed folio 13 (INFERRED)
+- Body line: at the end of line 11, right after "justify the measures through which that crisis has been precipitated."
+- Next: "These ruinous measures can be schematically traced back to three basic assumptions, all of which are only too familiar."
 
 ## Settings
 - Language: en
@@ -18,7 +18,13 @@
 - Corrections: none (companion book)
 
 ## Vocabulary covered (one word per bullet, newest on top)
-2026-11-22 (this sitting, newest)
+2026-11-27 (this sitting, newest)
+
+- prologue: an opening that sets the scene before the main matter (you reached for it)
+
+Earlier sittings
+
+2026-11-22
 
 - fulcrum: the pivot a scale balances on
 - Rousseauism: the thinking of Rousseau; follow the child's nature, remake society through new citizens
@@ -34,8 +40,6 @@
 - evangel: a gospel, a message preached to convert others
 - zeitgeist: the spirit of the age
 - natality: the fact of being born; the counterpart of mortality
-
-Earlier sittings
 
 2026-11-21
 
@@ -55,6 +59,10 @@ Earlier sittings
 - Losing the crisis: we lose the benefit of change and jump directly to disaster; the experience of reality would be a teacher-student relationship fitted to the students' present spirit and their relation to elders and society
 - America: the new order, newcomers guarantee it, schools must bring them in; immigrant children and all children alike in not yet embodying the ideas of the new country
 - Rousseau: if the educator follows the child's nature, the educator studies and the newborn teaches; society is changed so the environment fits the newborn; the educator is the balance point between society and newborn and should lean toward the newborn; real tension with introducing the child to the world
+- 2026-11-27: read her America-England contrast (no sorting of children in America, the exam at eleven in England) as leaning toward the American way, despite its disadvantages
+- Her closing lines in section I are a prologue, setting the scene; she has not yet talked about the crisis itself
+- Equalizing young and old costs the teacher's authority; your own addition (not in the text): authority comes more from age and position than from knowledge, and a child carries respect for it over from the family
+- Conceded that a young teacher with great knowledge stands only on his knowledge
 
 ## Open questions
 - If it is a symptom of something larger, how seriously does it deserve to be taken?
@@ -63,6 +71,9 @@ Earlier sittings
 - If the educator leans toward the newborn, what happens to introducing him to the world? (you called it a real tension)
 - What does it do to the child if education partly serves a political aim? (asked, not yet answered)
 - Does it hold for a child whose parents were born in the country too, that he arrives in a world not yet his? (asked, not yet answered)
+- Does she prefer the American way? You read it so; she says only that it has "great advantages"
+- If a society erases the line between young and old, what happens to the authority a child carries over from the family? (asked, not yet answered)
+- What does position add to a teacher's authority that knowledge alone does not? (you named tradition and respect, not settled)
 
 ## Skill feedback
 - Learner said Alex "pulls me by the string" by ending nearly every discussion turn with a question; the discussion protocol requires this
@@ -135,6 +146,26 @@ Reached Rousseau's link between education and politics by his own reasoning
 Offered the image of the educator as the balance point between society and the newborn
 [POSITION]
 6-9
+```
+
+### Session 2026-11-27
+
+```text
+[VOCAB]
+prologue | | (learner reaching for the word; not in the text) | an opening that sets the scene before the main matter; Alex offered preamble and prelude first, learner chose prologue | unquizzed
+[READINGS]
+America against England, end of section I | "I think she preferred the American style, even though it has some disadvantages" | Alex pointed to "great advantages" as support, and to her last line that these factors cannot justify the measures; learner then called the passage "a prologue" and said she has not yet talked about the crisis itself
+Teacher's authority | "if you erase the distinction between young and old, you erase the base of knowledge of the elders; the authority comes mostly from age more than knowledge; the stance of the teacher comes from his position towards children" | learner confirmed this is his own word, not in the text; Alex tested it with a young teacher who knows more, learner: "then he stands only on his knowledge"
+What position adds | "in a traditional society it adds a lot, it gives some distinction and respect; for children it would still be carried from the family, the parent-child relationship" | left open; Alex asked what happens to the carry-over when the line between young and old is erased
+[OPEN]
+Does she prefer the American way, or only note its advantages?
+What happens to a child's inherited respect for authority if the line between young and old is erased?
+What does position add to a teacher's authority that knowledge alone does not?
+[STRENGTHS]
+Said plainly that the authority-from-age idea was his own and not in the text
+Noticed that section I has not yet reached the crisis itself
+[POSITION]
+9-13
 ```
 
 </details>
