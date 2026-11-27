@@ -6,9 +6,9 @@
 2. "Summary of the passage: Arendt says the pathos of the new, older than the eighteenth century but developed politically only then, gave rise to an educational ideal tinged with Rousseauism, in which education became an instrument of politics and political activity itself was a form of education." (The Crisis in Education, PDF page 194)
 
 ## Where we stopped
-- Stopped at: The Crisis in Education, end of section I, PDF page 198, printed folio 13 (INFERRED)
-- Body line: at the end of line 11, right after "justify the measures through which that crisis has been precipitated."
-- Next: "These ruinous measures can be schematically traced back to three basic assumptions, all of which are only too familiar."
+- Stopped at: The Crisis in Education, section I, first basic assumption, PDF page 199, printed folio 14 (INFERRED)
+- Body line: at the end of line 7, right after "children are simply and utterly incapable of it."
+- Next: "Therefore by being emancipated from the authority of adults the child has not been freed but has been subjected to a much more terrifying and truly tyrannical authority, the tyranny of the majority."
 
 ## Settings
 - Language: en
@@ -63,6 +63,10 @@ Earlier sittings
 - Her closing lines in section I are a prologue, setting the scene; she has not yet talked about the crisis itself
 - Equalizing young and old costs the teacher's authority; your own addition (not in the text): authority comes more from age and position than from knowledge, and a child carries respect for it over from the family
 - Conceded that a young teacher with great knowledge stands only on his knowledge
+- First basic assumption (a child world governed by the children, adults only helping): first read it as the teacher managing the group but helpless against the individual; Alex corrected that the authority sits with the children's group, and the child no longer contests an adult but faces the group alone
+- Your own view: a teacher helps both the group and the single child and keeps the final word; Alex pointed out that this is not her first assumption, and that she is criticising it
+- Asked for her grounds and an example; took public schools as the natural place to look, and does not read her as describing America only
+- Your own image: the child in such a group is like an inmate, the adult kept only for extreme measures; you set its limit yourself, since he still has his parents and mixed ages outside school
 
 ## Open questions
 - If it is a symptom of something larger, how seriously does it deserve to be taken?
@@ -74,6 +78,10 @@ Earlier sittings
 - Does she prefer the American way? You read it so; she says only that it has "great advantages"
 - If a society erases the line between young and old, what happens to the authority a child carries over from the family? (asked, not yet answered)
 - What does position add to a teacher's authority that knowledge alone does not? (you named tradition and respect, not settled)
+- Does her "broken off" between children and adults happen only inside the school, or does it reach further? (asked, not yet answered)
+- Why does she put children even below grown people in standing alone against a majority?
+- Why does she call these measures ruinous, with no example in the paragraph? (you pressed this; she calls them "only too familiar")
+- If the teacher keeps the final word, do you and she disagree, or does your teacher fall outside her assumption?
 
 ## Skill feedback
 - Learner said Alex "pulls me by the string" by ending nearly every discussion turn with a question; the discussion protocol requires this
@@ -157,15 +165,25 @@ prologue | | (learner reaching for the word; not in the text) | an opening that 
 America against England, end of section I | "I think she preferred the American style, even though it has some disadvantages" | Alex pointed to "great advantages" as support, and to her last line that these factors cannot justify the measures; learner then called the passage "a prologue" and said she has not yet talked about the crisis itself
 Teacher's authority | "if you erase the distinction between young and old, you erase the base of knowledge of the elders; the authority comes mostly from age more than knowledge; the stance of the teacher comes from his position towards children" | learner confirmed this is his own word, not in the text; Alex tested it with a young teacher who knows more, learner: "then he stands only on his knowledge"
 What position adds | "in a traditional society it adds a lot, it gives some distinction and respect; for children it would still be carried from the family, the parent-child relationship" | left open; Alex asked what happens to the carry-over when the line between young and old is erased
+The first basic assumption, paragraph 1 | "the only thing a teacher can do is take care of a group situation, but is helpless against the individual" | Alex corrected: the authority sits with the children's group, the child no longer contests an adult but faces the group alone; learner: "I probably wrongly assumed it"
+The teacher's job | "helping the group navigation and the solo child"; "of course the teacher" keeps the final word | Alex: that is not her first assumption, she is criticising it; left standing
+Her grounds and example | asked what her aim is and where she sees it; "anything to do with the public school would do"; not an American-only problem | left open; she gives no example in the passage
+The child in the group | "much like incarceration"; limit: parents, mixed ages outside school, "only while he's in school" | his own image and limit; Alex asked whether "broken off" reaches beyond school, learner moved on to continue reading
 [OPEN]
 Does she prefer the American way, or only note its advantages?
 What happens to a child's inherited respect for authority if the line between young and old is erased?
 What does position add to a teacher's authority that knowledge alone does not?
+Does "broken off" between children and adults happen only inside the school, or does it reach further?
+Why does she put children even below grown people in standing alone against a majority?
+Why does she call these measures ruinous, with no example in the passage?
+If the teacher keeps the final word, do you and she disagree, or does your teacher fall outside her assumption?
 [STRENGTHS]
 Said plainly that the authority-from-age idea was his own and not in the text
 Noticed that section I has not yet reached the crisis itself
+Asked for her grounds and an example instead of accepting the claim
+Offered his own image (incarceration) and set its limit himself
 [POSITION]
-9-13
+9-14
 ```
 
 </details>
