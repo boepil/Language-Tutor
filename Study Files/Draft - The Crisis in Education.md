@@ -4,7 +4,7 @@
 
 1. "Rousseau's idea of education: the educator follows the child's own nature, so the educator studies and the newborn teaches; to make a world that fits the newborn, society itself has to be changed, and that is where education meets politics." (The Crisis in Education, PDF page 194)
 2. "Summary of the passage: Arendt says the pathos of the new, older than the eighteenth century but developed politically only then, gave rise to an educational ideal tinged with Rousseauism, in which education became an instrument of politics and political activity itself was a form of education." (The Crisis in Education, PDF page 194)
-3. "Leaving children to the tyranny of their own group is very hazardous: it can produce either conformism or juvenile delinquency, and is frequently a mixture of both." (The Crisis in Education, PDF page 199)
+3. "Leaving children to the tyranny of their own group is ruinous: it can produce either conformism or juvenile delinquency, and is frequently a mixture of both." (The Crisis in Education, PDF page 199)
 
 ## Where we stopped
 - Stopped at: The Crisis in Education, section I, first basic assumption, PDF page 199, printed folio 14 (INFERRED)
