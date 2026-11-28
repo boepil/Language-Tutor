@@ -7,9 +7,9 @@
 3. "Leaving children to the tyranny of their own group is ruinous: it can produce either conformism or juvenile delinquency, and is frequently a mixture of both." (The Crisis in Education, PDF page 199)
 
 ## Where we stopped
-- Stopped at: The Crisis in Education, section I, first basic assumption, PDF page 199, printed folio 14 (INFERRED)
-- Body line: at the end of line 7, right after "children are simply and utterly incapable of it."
-- Next: "Therefore by being emancipated from the authority of adults the child has not been freed but has been subjected to a much more terrifying and truly tyrannical authority, the tyranny of the majority."
+- Stopped at: The Crisis in Education, section II, third basic assumption, PDF page 200, printed folio 15 (INFERRED)
+- Body line: at the end of line 23, right after "prerequisites of a standard curriculum."
+- Next: "However, this description is at fault, not only because it obviously exaggerates in order to drive home a point, but because it fails to take into account how in this process special importance was attached to obliterating as far as possible the distinction between play and work—in favor of the former."
 
 ## Settings
 - Language: en
@@ -19,11 +19,17 @@
 - Corrections: none (companion book)
 
 ## Vocabulary covered (one word per bullet, newest on top)
-2026-11-27 (this sitting, newest)
+2026-11-28 (this sitting, newest)
 
-- prologue: an opening that sets the scene before the main matter (you reached for it)
+- exemplify: to serve as an example of, or to show something by example (you reached for it)
+- inculcate: to fix an idea, habit, or skill in someone's mind by steady repetition
+- pernicious: harmful in a gradual, often hidden way
 
 Earlier sittings
+
+2026-11-27
+
+- prologue: an opening that sets the scene before the main matter (you reached for it)
 
 2026-11-22
 
@@ -69,6 +75,12 @@ Earlier sittings
 - Asked for her grounds and an example; took public schools as the natural place to look, and does not read her as describing America only
 - Your own image: the child in such a group is like an inmate, the adult kept only for extreme measures; you set its limit yourself, since he still has his parents and mixed ages outside school
 
+- 2026-11-28: Rousseau's educator protects the child, good from birth, from a corrupt society in a separate environment and shapes that environment to suit him; changing society belongs to his political writings, not to his idea of education (checked against outside sources; notebook point 1 rewritten)
+- Checked the Rousseau passage: she names him once, as the influence behind an ideal in which education became an instrument of politics, not as a model; you conceded your positive reading may have been wrong
+- Doubt: that her picture of teachers who lack their own subject fits today's classrooms; she writes of American public schools of her time and says "not infrequently"
+- Second basic assumption, summed up in your words and checked against the text: the teacher needs no mastery of his subject because people learn by doing, so he learns in front of the pupils and shows how knowledge is produced
+- Third basic assumption: learning replaced by doing, so schools become vocational institutions that teach skills (driving, typing, popularity) and fail at the standard curriculum
+
 ## Open questions
 - If it is a symptom of something larger, how seriously does it deserve to be taken?
 - What exactly does Arendt mean by "malaise" here? The sentence does not name it
@@ -83,10 +95,13 @@ Earlier sittings
 - Why does she put children even below grown people in standing alone against a majority?
 - Why does she call these measures ruinous, with no example in the paragraph? (you pressed this; she calls them "only too familiar")
 - If the teacher keeps the final word, do you and she disagree, or does your teacher fall outside her assumption?
+- Is her picture of teachers who do not know their own subject adequate to today's classrooms? (you doubt it)
+- How does Rousseau's educator compare with the teacher she describes under the second assumption? (asked, not yet answered)
 
 ## Skill feedback
 - Learner said Alex "pulls me by the string" by ending nearly every discussion turn with a question; the discussion protocol requires this
 - 2026-11-22: the voice call opened without the skill text; Alex nudged the learner to read on and commented on the text mid-reading, against the top rule; the learner asked Alex to follow the skill, and Alex then read it from the repo and stayed silent while he read
+- 2026-11-28: the learner asked Alex to read ahead and say whether the author answers his open question; Alex first declined under the no-spoilers rule, then did it when the learner asked outright to set the rule aside
 
 ## Session log
 
@@ -185,6 +200,31 @@ Asked for her grounds and an example instead of accepting the claim
 Offered his own image (incarceration) and set its limit himself
 [POSITION]
 9-14
+```
+
+### Session 2026-11-28
+
+```text
+[VOCAB]
+exemplify | | (learner reaching for the word; not in the text) | to serve as an example of, or to show something by example; learner wanted it when summing up how the teacher shows students how a skill is acquired | unquizzed
+inculcate | 15 | The conscious intention was not to teach knowledge but to inculcate a skill, and the result was a kind of transformation of institutes for learning into vocational institutions which have been as successful in teaching how to drive a car or how to use a typewriter or, even more important for the “art” of living, how to get along with other people and to be popular, as they have been unable to make the children acquire the normal prerequisites of a standard curriculum. | to fix an idea, habit, or skill in someone's mind by steady repetition; here, to instil a skill rather than hand over knowledge | unquizzed
+pernicious | 15 | But this pernicious role that pedagogy and the teachers’ colleges are playing in the present crisis was only possible because of a modern theory about learning. | harmful in a gradual, often hidden way | unquizzed
+[READINGS]
+Why the adult stepped back | "I haven't fully understood why modern society, specifically American, has created this" | Alex pointed to the American enthusiasm for the new and the Rousseau-tinged ideal; learner not convinced; at his explicit request Alex looked ahead and said she answers early in section III (the blur between private and public life, children exposed to a public life of their own group)
+Teacher's knowledge and authority | "in today's classroom a teacher has the subject, like mathematics, English, geography; I don't think it's an adequate description" | Alex: she writes of American public schools of her time and says "not infrequently"; learner then said that for Rousseau a teacher does not necessarily need subject expertise
+Rousseau as a positive example | "I believe she gave him as a positive example earlier"; later "I might have been wrong" | Alex checked the text: she mentions him once, as the influence behind an ideal in which education became an instrument of politics; conceded
+Rousseau first to link politics and education | "what you say is that Rousseau was the first one to link politics and education" | Alex: she says education has been tied to politics in utopias since ancient times; the eighteenth century, with Rousseau's influence, developed it conceptually and politically
+Rousseau and the note | asked Alex to align note one with the passage, then with Rousseau himself | note one held his own reading beyond her words; outside sources: Rousseau shields the child from society, and the political side is in his political writings; learner summed it up and note one was rewritten
+Second basic assumption | "the reason for the absence of professional knowledge in the teacher is the assumption that people learn by doing; the teacher's lack of knowledge is beneficial so he can show how to acquire a skill" | matched the text; he asked how the closing lines about driving and popularity connect, and Alex explained skills replace knowledge, schools turn vocational, standard curriculum not learned
+[OPEN]
+Is her picture of teachers who do not know their own subject adequate to today's classrooms?
+How does Rousseau's educator compare with the teacher she describes under the second assumption?
+[STRENGTHS]
+Summed up the teacher-knowledge passage accurately before checking it against the text
+Went back to the text to test his own claim about Rousseau and conceded it
+Asked for his note to be checked against the text and against Rousseau's own philosophy
+[POSITION]
+14-15
 ```
 
 </details>
